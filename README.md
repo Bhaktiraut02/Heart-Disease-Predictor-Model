@@ -19,6 +19,6 @@ The project is titles **Heart Disease prediction**. Analysing the patient’s he
 This project helps us to understand the heart disease dataset. The data is displayed in various graphical manners for better understanding. Using the linear regression, Support Vector Machine and Gaussian Naïve Bayes patients heart disease is detected by the data that are given in the dataset. The accuracy of these algorithms is Gaussian Naïve Bayes 83.52% Support Vector Machine 70.33% Linear Regression 18.75% (using the chest pain Attribute). The best result given for the dataset is from Gaussian Naïve Bayes by its accuracy.
 
 -------------------
-# Final Project can be found attached below:
+### Final Project can be found attached below:
 
 [Heart Disease Prediction Project Report](https://github.com/Bhaktiraut02/Heart-Disease-Predictor-Model/blob/main/PROJECT%20REPORT(Group%2036)%5BML%26AI%20Batch%2006%5D.pdf)
