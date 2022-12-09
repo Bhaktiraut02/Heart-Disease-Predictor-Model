@@ -21,4 +21,4 @@ This project helps us to understand the heart disease dataset. The data is displ
 -------------------
 ### Final Project can be found attached below:
 
-[Heart Disease Prediction Project Report](https://github.com/Bhaktiraut02/Heart-Disease-Predictor-Model/blob/main/PROJECT%20REPORT(Group%2036)%5BML%26AI%20Batch%2006%5D.pdf)
+[Heart Disease Prediction Project Report](https://github.com/Bhaktiraut02/Heart -Disease-Predictor-Model/blob/main/PROJECT%20REPORT(Group%2036)%5BML%26AI%20Batch%2006%5D.pdf)
